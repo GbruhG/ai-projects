@@ -17,7 +17,7 @@ A custom-made semantic search system powered by natural language queries and a k
 
 ---
 
-### 🤖 [AI-Powered Job Assistant](./job-assistant)
+### 🤖 [AI-Powered Job Assistant](https://gregorkracan.dev/job-assistant.html)
 An LLM-based job assistant that helps users generate personalized CVs and cover letters.
 
 - **Tech Stack:** Python, LangChain, Groq, OpenAI API, Streamlit
@@ -29,7 +29,7 @@ An LLM-based job assistant that helps users generate personalized CVs and cover 
 ---
 
 ### 🎙️ [Voice Chat Bot](./voice-chat-bot)
-A voice-enabled chatbot for natural, spoken interactions using AI models.
+A voice-enabled chatbot for natural, spoken interactions using AI models. Not yet deployed.
 
 - **Tech Stack:** Python, OpenAI Whisper, Text-to-Speech APIs
 - **Features:**
