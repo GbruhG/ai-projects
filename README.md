@@ -6,7 +6,7 @@ A collection of self-driven AI projects exploring language models, semantic sear
 
 ## 🚀 Projects
 
-### 🔍 [Knowledge Graph v1](./knowledge-graph-v1)
+### 🔍 [Knowledge Graph v1](https://gregorkracan.dev/knowledge-graph.html)
 A custom-made semantic search system powered by natural language queries and a knowledge graph backend.
 
 - **Tech Stack:** Python, Neo4j, Groq API, FastAPI, Cypher, ChromaDB
